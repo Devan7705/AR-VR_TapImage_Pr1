@@ -1,0 +1,57 @@
+studioVersion:
+  major: 5
+  minor: 23
+  patch: 0
+  build: 26072806
+  type: Public
+  buildFlavor: release
+  timestamp: 1785218394000
+  commit: 88644ecca32e161ab7f4e2023020611ec41a8363
+coreVersion: 360
+clientVersion: 13.90
+updateCheckpoint: 102
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: TapImage
+  lensDescriptors:
+    []
+  lensApplicableContext:
+    - live_camera
+    - reply_camera
+    - video_chat
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - CameraKit
+  platformBundlesEnabled: false
+  iconHash: 7304115426b53adb1f527d891ba95f2a
+  videoPreviewHash: 9cc49736135b8bd574166f1fb593f4dd
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.21.0.26050122
+  activationCamera: Front
+  sourceMapEnabled: false
+  shaderCacheInvalidationEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: 98bcd342-79f5-4f2d-8fbb-105951de06ec
+  originalDocumentId: f3d524c5-ac07-44a7-b03a-e07d591396ec
+  packageId: ""
+  packageVersion: ""
+  spkPrivilegeLevel: Generic
+  gluboEnabled: false
+targetPlatform: Snapchat
